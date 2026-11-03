@@ -1,4 +1,0 @@
-Öğrenci No: 2416501075
-Ad Soyad: Elif Nur Özek
-Yıl: 2026
-Sprint: 6 + Vize
