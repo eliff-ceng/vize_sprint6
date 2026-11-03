@@ -1,1 +1,1 @@
-https://vize-sprint6.vercel.app/
+https://elifnurozek-frontend.vercel.app/
